@@ -1,0 +1,31 @@
+html {
+    padding: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+span {
+    cursor: pointer;
+}
+
+.list {
+    padding-left: 20px;
+    text-align: left;
+    border-bottom: 1px solid grey;
+}
+
+.App {
+    padding: 0;
+    text-align: center;
+}
+.black-nav {
+    display: flex;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    color: white;
+    padding-left: 20px;
+}
+
